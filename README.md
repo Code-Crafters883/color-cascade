@@ -24,7 +24,7 @@ Now, the game has **5 levels** with different difficulty levels in each level.
 * Each level is a List containing the tubes.
 * Undo feature using Linked List.
 
-## Some Image of Game
+## Images of Game
 
 ### Home Screen
 
@@ -32,7 +32,7 @@ Now, the game has **5 levels** with different difficulty levels in each level.
 
 #### New Game
 
-![](image/2.png)
+![image](https://github.com/user-attachments/assets/9265c66e-eb31-4990-beda-2fb2357291b3)
 
 #### Load Game
 
