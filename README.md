@@ -28,7 +28,7 @@ Now, the game has **5 levels** with different difficulty levels in each level.
 
 ### Home Screen
 
-![](image/1.png)
+![]()
 
 #### New Game
 
