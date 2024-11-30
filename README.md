@@ -48,7 +48,7 @@ Now, the game has **5 levels** with different difficulty levels in each level.
 
 #### Setting 
 
-![](image/6.png)
+![image](https://github.com/user-attachments/assets/61bda473-92d5-4fbb-ad7b-59fa4010e906)
 
 ## Directory Structure
 
