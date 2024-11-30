@@ -38,13 +38,9 @@ Now, the game has **5 levels** with different difficulty levels in each level.
 
 ![image](https://github.com/user-attachments/assets/cc2c0d50-9dbe-41b4-8552-c72212bacf46)
 
-#### About Game
-
-![](image/4.png)
-
 ### Play Screen
 
-![](image/5.png)
+![image](https://github.com/user-attachments/assets/e609e27e-1d33-42ec-9cab-4c159f997905)
 
 #### Setting 
 
