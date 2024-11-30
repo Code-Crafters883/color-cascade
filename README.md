@@ -52,6 +52,8 @@ Now, the game has **5 levels** with different difficulty levels in each level.
 
 ## Directory Structure
 
+```txt
+TSP/
   data/              contains data of user in game
   image/             contains images to introduce game
   lib/               contains library AbsoluteLayout.jar to support build graphic
@@ -59,6 +61,7 @@ Now, the game has **5 levels** with different difficulty levels in each level.
   resource/          contains drawable, fonts and sounds folder
   src/               contains source code
 ```
+
 ### Run
 
 Run file `src/Main.java` 
